@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mccly\\Desktop\\Sem 2\\318\\dcit318-assignment1-11296675\\triangle_type_identifier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC012F25-5260-4DC2-AB8B-0E971D4CAB1A}|triangle_type_identifier\\triangle_type_identifier.csproj|c:\\users\\mccly\\desktop\\sem 2\\318\\dcit318-assignment1-11296675\\triangle_type_identifier\\triangle_type_identifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC012F25-5260-4DC2-AB8B-0E971D4CAB1A}|triangle_type_identifier\\triangle_type_identifier.csproj|solutionrelative:triangle_type_identifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mccly\\Desktop\\Sem 2\\318\\dcit318-assignment1-11296675\\triangle_type_identifier\\triangle_type_identifier\\Program.cs",
+              "RelativeDocumentMoniker": "triangle_type_identifier\\Program.cs",
+              "ToolTip": "C:\\Users\\mccly\\Desktop\\Sem 2\\318\\dcit318-assignment1-11296675\\triangle_type_identifier\\triangle_type_identifier\\Program.cs",
+              "RelativeToolTip": "triangle_type_identifier\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:30:42.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
