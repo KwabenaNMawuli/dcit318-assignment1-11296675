@@ -1,0 +1,15 @@
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\bin\Debug\net8.0\ticket_price_calculator.exe
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\bin\Debug\net8.0\ticket_price_calculator.deps.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\bin\Debug\net8.0\ticket_price_calculator.runtimeconfig.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\bin\Debug\net8.0\ticket_price_calculator.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\bin\Debug\net8.0\ticket_price_calculator.pdb
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\obj\Debug\net8.0\ticket_price_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\obj\Debug\net8.0\ticket_price_calculator.AssemblyInfoInputs.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\obj\Debug\net8.0\ticket_price_calculator.AssemblyInfo.cs
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\obj\Debug\net8.0\ticket_price_calculator.csproj.CoreCompileInputs.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\obj\Debug\net8.0\ticket_price_calculator.sourcelink.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\obj\Debug\net8.0\ticket_price_calculator.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\obj\Debug\net8.0\refint\ticket_price_calculator.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\obj\Debug\net8.0\ticket_price_calculator.pdb
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\obj\Debug\net8.0\ticket_price_calculator.genruntimeconfig.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\ticket_price_calculator\ticket_price_calculator\obj\Debug\net8.0\ref\ticket_price_calculator.dll
