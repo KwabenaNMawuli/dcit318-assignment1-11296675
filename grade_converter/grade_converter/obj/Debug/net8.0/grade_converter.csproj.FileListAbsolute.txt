@@ -1,0 +1,15 @@
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\bin\Debug\net8.0\grade_converter.exe
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\bin\Debug\net8.0\grade_converter.deps.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\bin\Debug\net8.0\grade_converter.runtimeconfig.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\bin\Debug\net8.0\grade_converter.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\bin\Debug\net8.0\grade_converter.pdb
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\obj\Debug\net8.0\grade_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\obj\Debug\net8.0\grade_converter.AssemblyInfoInputs.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\obj\Debug\net8.0\grade_converter.AssemblyInfo.cs
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\obj\Debug\net8.0\grade_converter.csproj.CoreCompileInputs.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\obj\Debug\net8.0\grade_converter.sourcelink.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\obj\Debug\net8.0\grade_converter.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\obj\Debug\net8.0\refint\grade_converter.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\obj\Debug\net8.0\grade_converter.pdb
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\obj\Debug\net8.0\grade_converter.genruntimeconfig.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment1-11296675\grade_converter\grade_converter\obj\Debug\net8.0\ref\grade_converter.dll
